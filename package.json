@@ -2,7 +2,7 @@
   "name": "box-office",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Manish3330.github.io/Box-office-app-temp",
+  "homepage": "https://manish3330.github.io/Box-office-app-temp",
   "dependencies": {
     "@tanstack/react-query": "^4.16.1",
     "gh-pages": "^5.0.0",
